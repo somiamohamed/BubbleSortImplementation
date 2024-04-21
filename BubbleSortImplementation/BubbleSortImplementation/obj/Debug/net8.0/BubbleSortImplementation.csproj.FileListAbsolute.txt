@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\bin\Debug\net8.0\BubbleSortImplementation.exe
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\bin\Debug\net8.0\BubbleSortImplementation.deps.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\bin\Debug\net8.0\BubbleSortImplementation.runtimeconfig.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\bin\Debug\net8.0\BubbleSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\bin\Debug\net8.0\BubbleSortImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\refint\BubbleSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\BubbleSortImplementation.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week3\BubbleSortImplementation\BubbleSortImplementation\obj\Debug\net8.0\ref\BubbleSortImplementation.dll
